@@ -1,0 +1,26 @@
+[
+    {
+        "unit": "Kamar",
+        "harga": 500000
+    },
+
+    {
+        "unit": "Paviliun",
+        "harga": 1000000
+    },
+
+    {
+        "unit": "Rumah",
+        "harga": 2000000
+    },
+
+    {
+        "unit": "Kios",
+        "harga": 1500000
+    },
+
+    {
+        "unit": "Ruko",
+        "harga": 2500000
+    }
+]

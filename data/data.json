@@ -1,0 +1,44 @@
+[
+    {
+        "nama": "marsya ",
+        "nomorTelp": "232456",
+        "unitYangAkanDisewa": "Paviliun",
+        "durasi": "3",
+        "totalHarga": 3000000
+    },
+    {
+        "nama": "Nadyne",
+        "nomorTelp": "998326472",
+        "unitYangAkanDisewa": "Rumah",
+        "durasi": "2",
+        "totalHarga": 4000000
+    },
+    {
+        "nama": "Siti Najwa Sakila",
+        "nomorTelp": "08329183948",
+        "unitYangAkanDisewa": "Rumah",
+        "durasi": "1",
+        "totalHarga": 2000000
+    },
+    {
+        "nama": "Siti Najwa Sakila",
+        "nomorTelp": "08329183948",
+        "unitYangAkanDisewa": "Rumah",
+        "durasi": "1",
+        "totalHarga": 2000000
+    },
+    {
+        "nama": "Siti Najwa Sakila",
+        "nomorTelp": "08329183948",
+        "unitYangAkanDisewa": "Rumah",
+        "durasi": "1",
+        "totalHarga": 2000000
+    },
+    {
+        "nama": "Siti Najwa Sakila",
+        "nomorTelp": "08329183948",
+        "unitYangAkanDisewa": "Rumah",
+        "durasi": "1",
+        "totalHarga": 2000000
+    }
+]
